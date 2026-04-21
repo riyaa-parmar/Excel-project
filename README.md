@@ -10,7 +10,7 @@ It includes student records, sales data, and employee information with applied f
 ## ▶️ How to Run the Project
 
 1. Download the file **Project1.xlsx** from this repository
-2. Open it using **Microsoft Excel (2019 or later)**
+2. Open it using **Microsoft Excel**
 3. Navigate through sheets:
 
    * Students
