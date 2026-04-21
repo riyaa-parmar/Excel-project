@@ -7,6 +7,21 @@ It includes student records, sales data, and employee information with applied f
 
 ---
 
+## ▶️ How to Run the Project
+
+1. Download the file **Project1.xlsx** from this repository
+2. Open it using **Microsoft Excel (2019 or later)**
+3. Navigate through sheets:
+
+   * Students
+   * Sales
+   * Employees
+   * Analysis
+4. Click on any cell to view the applied formulas in the formula bar
+5. Modify values to see dynamic results
+
+---
+
 ## 📂 Sheets Included
 
 ### 🔹 1. Students
@@ -63,7 +78,7 @@ It includes student records, sales data, and employee information with applied f
 * Handling multiple datasets
 * Applying conditional logic
 * Performing lookup operations
-* Working with real-world structured data
+* Working with structured data
 
 ---
 
@@ -73,8 +88,13 @@ It includes student records, sales data, and employee information with applied f
 
 ---
 
-## 📌 Author
+## 👩‍💻 Author
 
 **Riya Parmar**
 
+GitHub:  
+https://github.com/riyaa-parmar
+
 ---
+
+⭐ If you find these projects useful, consider **starring the repository**!
