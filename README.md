@@ -116,10 +116,14 @@ The projects cover:
 
 ---
 
-## 👤 Author
+## 👩‍💻 Author
+
 **Riya Parmar**
+
+GitHub:  
+https://github.com/riyaa-parmar
 
 ---
 
-## ⭐ Note
-This repository is created for learning and academic purposes to demonstrate Excel data analysis and dashboard skills.
+⭐ If you find these projects useful, consider **starring the repository**!
+
