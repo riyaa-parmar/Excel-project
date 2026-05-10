@@ -1,100 +1,125 @@
-# 📊 Excel Project – Fundamental Booster
+# 📊 Excel Data Analysis Projects Portfolio
 
-## 📁 Project Overview
+## 📌 Overview
+This repository contains multiple Excel-based data analysis projects created to demonstrate practical skills in data cleaning, analysis, visualization, and business decision-making.
 
-This project demonstrates the use of Microsoft Excel functions and features to analyze and manage data.
-It includes student records, sales data, and employee information with applied formulas and analysis.
+The projects cover:
+- Data Cleaning & Preparation
+- Pivot Tables & Charts
+- Dashboard Creation
+- Advanced Excel Formulas
+- Regression Analysis
+- What-If Analysis
 
 ---
 
-## ▶️ How to Run the Project
+## 📂 Projects Included
 
-1. Download the file **Project1.xlsx** from this repository
-2. Open it using **Microsoft Excel**
+### 🔹 1. Project 1 – Basic Data Analysis
+**Description:**
+- Initial project focusing on Excel fundamentals
+
+**Features:**
+- Data cleaning
+- Basic formulas
+- Simple analysis
+
+---
+
+### 🔹 2. Project 2 – Intermediate Analysis
+**Description:**
+- Enhanced analysis with structured data
+
+**Features:**
+- Pivot Tables
+- Data summarization
+- Charts for visualization
+
+---
+
+### 🔹 3. Final Project – Data Intelligence Dashboard
+**Description:**
+- Complete end-to-end Excel dashboard project
+
+**Features:**
+- KPI metrics (Sales, Profit, Orders)
+- Interactive Dashboard
+- Slicers for filtering
+- Advanced charts
+- Data insights & reporting
+
+---
+
+### 🔹 4. Practical Exam Project
+**Description:**
+- Full practical exam project demonstrating all Excel skills
+
+**Features:**
+- ✔ Data Cleaning & Preparation  
+- ✔ Pivot Tables & Charts  
+- ✔ Interactive Dashboard  
+- ✔ KPI Calculations  
+- ✔ Advanced Formulas  
+  - VLOOKUP  
+  - INDEX-MATCH  
+  - IF Conditions  
+- ✔ Regression Analysis (Data Analysis ToolPak)  
+- ✔ What-If Analysis  
+  - Goal Seek  
+  - Scenario Manager  
+
+---
+
+## 🛠️ Tools & Technologies
+- Microsoft Excel
+- Pivot Tables & Charts
+- Data Analysis ToolPak
+- What-If Analysis Tools
+- Excel Formulas
+
+---
+
+## 📊 Key Skills Demonstrated
+- Data Cleaning & Transformation
+- Data Visualization
+- Dashboard Design
+- Business Insights Generation
+- Statistical Analysis
+- Decision Support Techniques
+
+---
+
+## 📈 Key Insights (From Projects)
+- Sales performance varies by category and region  
+- Technology category contributes highest revenue  
+- Revenue increases significantly with quantity and price  
+- Data-driven insights help improve business decisions  
+
+---
+
+## 🚀 How to Use
+1. Download the Excel files from this repository  
+2. Open in Microsoft Excel  
 3. Navigate through sheets:
-
-   * Students
-   * Sales
-   * Employees
-   * Analysis
-4. Click on any cell to view the applied formulas in the formula bar
-5. Modify values to see dynamic results
+   - Dashboard → Visual insights  
+   - PivotTable → Data summaries  
+   - CleanData → Processed data  
+   - Analysis → Advanced insights  
 
 ---
 
-## 📂 Sheets Included
-
-### 🔹 1. Students
-
-* Calculated **Average Marks**
-* Assigned **Grades using IF**
-* Used **AND / OR conditions**
-* Extracted **Year & Date Difference**
-* Applied **TEXT functions (LEFT, UPPER)**
-* Identified **Top Students**
+## 📎 Files Included
+- `Project1.xlsx`
+- `Project2.xlsx`
+- `final_project.xlsx`
+- `Practical_exam.xlsx`
 
 ---
 
-### 🔹 2. Sales
-
-* Calculated **Total Sales (SUM)**
-* Regional analysis using **SUMIFS**
-* Average calculation using **AVERAGEIF**
-* Found product position using **MATCH**
-* Applied **Math functions (ROUND, CEILING, FLOOR)**
-
----
-
-### 🔹 3. Employees
-
-* Found **Highest Salary (MAX)**
-* Counted employees in HR using **COUNTIF**
-* Calculated **Experience using Date functions**
-
----
-
-### 🔹 4. Analysis
-
-* Used **VLOOKUP**
-* Used **INDEX + MATCH**
-* Applied **IFERROR for error handling**
-
----
-
-## ⚙️ Excel Features Used
-
-* Logical Functions: `IF`, `AND`, `OR`
-* Lookup Functions: `VLOOKUP`, `INDEX`, `MATCH`
-* Statistical Functions: `COUNTIF`, `SUMIFS`, `AVERAGEIF`
-* Text Functions: `LEFT`, `UPPER`
-* Date Functions: `TODAY`, `YEAR`
-* Math Functions: `ROUND`, `CEILING`, `FLOOR`
-
----
-
-## 🎯 Key Learnings
-
-* Data analysis using formulas
-* Handling multiple datasets
-* Applying conditional logic
-* Performing lookup operations
-* Working with structured data
-
----
-
-## 🛠 Tools Used
-
-* Microsoft Excel 2019
-
----
-
-## 👩‍💻 Author
-
+## 👤 Author
 **Riya Parmar**
 
-GitHub:  
-https://github.com/riyaa-parmar
-
 ---
 
-⭐ If you find these projects useful, consider **starring the repository**!
+## ⭐ Note
+This repository is created for learning and academic purposes to demonstrate Excel data analysis and dashboard skills.
